@@ -1,0 +1,22 @@
+{
+  "name": "exquisitecorpse",
+  "version": "1.0.0",
+  "description": "an exquisite corpse, for code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativecodenyc/exquisitecorpse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creativecodenyc/exquisitecorpse/issues"
+  },
+  "homepage": "https://github.com/creativecodenyc/exquisitecorpse#readme",
+  "devDependencies": {
+    "ws": "^0.7.2"
+  }
+}
