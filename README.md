@@ -1,4 +1,4 @@
-# exquisitecorpse
+# exquisitecode
 an exquisite corpse, for code
 
 ## Start
