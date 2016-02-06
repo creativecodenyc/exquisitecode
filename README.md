@@ -1,10 +1,10 @@
 # exquisitecode
 an exquisite corpse, for code
 
-## Start
+## run it
 To start the app, run
 ```shell
-node start
+npm start
 ```
 
 ## to contribute
